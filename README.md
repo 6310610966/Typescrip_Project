@@ -1,9 +1,10 @@
 # Typescrip_Project
 
 ### Requirements
-```
-Please write a typescript project with unit test:
 
+Please write a typescript project with unit test:
+---
+```
 For implementing function with this interface
     merge (int[] collection_1, int[] collection_2) : int []
 
